@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
+
+[![](https://github-readme-stats.vercel.app/api?username=ggg4566&show_icons=true&hide_title=true)](https://github.com/ggg4566)
+
 <!--
-**ggg4566/ggg4566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bit4woo/bit4woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
