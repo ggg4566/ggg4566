@@ -1,5 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ggg4566&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
+[![ggg4566's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggg4566)](https://github.com/ggg4566/)
 ### About Me 👋
 
 - 我不是我
